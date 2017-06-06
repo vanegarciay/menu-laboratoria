@@ -1,0 +1,39 @@
+/* estilos generales */
+
+body{
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    font-family: 'Indie Flower', cursive;
+}
+nav ul li a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 20px;
+
+}
+.lista{
+    list-style:none;
+    border-right: solid 0.5px;
+    padding: 15px;
+    width: 100%;
+    text-align: center;
+
+
+}
+nav ul{
+    height: 54px;
+    margin-top: 0px;
+
+}
+#nav{
+    background-color: #db7878 ;
+
+}
+
+li:hover{
+    background-color:#E8048A ;
+
+}

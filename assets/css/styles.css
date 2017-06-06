@@ -53,6 +53,10 @@ li:hover{
     cursor: pointer;
 }
 
+.nav_dos i:hover {
+    color: pink;
+}
+
 .cajas_menu {
     border-bottom: 1px solid;
 }
@@ -80,5 +84,6 @@ li:hover{
 
 .texto:hover{
     text-decoration: underline;
+    color: pink;
 }
 

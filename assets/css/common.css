@@ -47,5 +47,5 @@ table {
 .flex-container{
     display: -webkit-flex;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }

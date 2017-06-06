@@ -37,3 +37,48 @@ li:hover{
     background-color:#E8048A ;
 
 }
+
+.nav_dos {
+    background-color: #302D2D;
+    
+}
+
+#barra {
+    padding: 30px;
+}
+
+.nav_dos i {
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.cajas_menu {
+    border-bottom: 1px solid;
+}
+
+.oculto {
+    display: none;
+}
+
+.contenedor{    
+    display:none;
+    width: 100%;
+}
+
+.texto{
+
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    height: 26px;
+    margin-top: 12px;
+    cursor: pointer;
+    border-bottom: 1px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.texto:hover{
+    text-decoration: underline;
+}
+

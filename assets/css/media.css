@@ -1,0 +1,10 @@
+@media (min-width: 1px) and (max-width: 620px) {
+    #nav {
+        display: none;
+    }
+
+    .oculto {
+        display: block;
+    }
+    
+}

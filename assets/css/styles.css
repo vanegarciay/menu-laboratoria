@@ -40,7 +40,7 @@ li:hover{
 
 .nav_dos {
     background-color: #302D2D;
-    
+    display: none;
 }
 
 #barra {
@@ -61,12 +61,11 @@ li:hover{
     border-bottom: 1px solid;
 }
 
-.oculto {
+.invisible {
     display: none;
 }
 
 .contenedor{    
-    display:none;
     width: 100%;
 }
 

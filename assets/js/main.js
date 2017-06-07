@@ -62,7 +62,7 @@ function despleglable() {
 var barra = document.getElementById("barra");
 
 barra.addEventListener("click",function(){
-    document.getElementById("hidden").classList.remove("contenedor");
+    document.getElementById("menu-responsive").classList.toggle("invisible");
 
 });
 
